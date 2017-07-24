@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thoughts</title>
+    <description>join me and my convoluted thoughts. enjoy your stay.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 24 Jul 2017 10:24:09 +0900</pubDate>
+    <lastBuildDate>Mon, 24 Jul 2017 10:24:09 +0900</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>first weekend</title>
+        <description>&lt;h4&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Saturday, 6/10&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;people told me that 대전 would be boring, but it really isn't. I don't believe&amp;nbsp;&lt;em&gt;anywhere&amp;nbsp;&lt;/em&gt;is boring if one just takes the opportunities lying around.&lt;/p&gt;
+&lt;p&gt;my first stop on the itinerary Saturday afternoon? 뿌리공원, a peaceful park located at the very bottom of 대전. I felt a sense of inner harmony, one I hadn't felt in so long, when I was there. perhaps it was the change of scenery&amp;mdash;where in the United States do you find a park on the outskirts of the city, neighboring beautiful, domineering mountains and rivers? I think this description generalizes well to Asia. the beauty of our mountainscapes and rivers is unrivaled.&lt;/p&gt;
+&lt;p&gt;I managed to take a trip on the self-propelling duck boat. it felt great to go on the river by myself. facetimed mom, too.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I really hadn't felt that peaceful in such a long time&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;afterwards, I headed to 우암사적공원, a history park that was apparently the grounds for some famous Korean general or leader during the 조선 Dynasty. what do you know? the place was closed, and it was then that I realized that I irrevocably screwed myself over for the day by straying so far from 누리관. I was probably more than 7 miles away.&lt;/p&gt;
+&lt;p&gt;then again, does it really matter when amazing photo ops are involved? I got some amazing shots, and it's true&amp;mdash;these pictures speak more than this b&amp;amp;w text I'm typing now. afterwards, stopped by Lotte Mart and got 2.7L of various juices for&amp;nbsp;&lt;em&gt;cheap&lt;/em&gt;. there was also a 떢볶이 deal, 1,500KRW for one serving.&amp;nbsp;&lt;em&gt;is it obvious that I ordered two servings? nothing beats&amp;nbsp;떢볶이.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I returned home and got my first taste of the actual subway system. one word. amazing.&lt;/p&gt;
+&lt;h4&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Sunday, 6/11&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;I slept in. did some quick shopping around the Golfzon area, trying to further understand the process of how markets work around here. I was dismayed at just how expensive Starbucks is in this country. a java bean frappucino costs nearly $3 more for the base size, and that's quite a leap. consumerism at its finest, eh?&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;yes, I gave in. I visited BHC, a popular chicken franchise in Korea that's been around since 2013. a waitress greeted me, and later asked for my contact information. I was surprised when she told me that she also wasn't Korean; I'm too used to having a native accent that when I hear others with one, I forget to consider that they might be foreigners as well. numberless, I gave her my Kakaotalk instead.&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;then church, the last milestone of the day. my first Korean mass! I understood little of the sermon, but some deduction skills led to this recap: he was talking about the Trinity and why for some people, it's so difficult to comprehend. something about grabbing on to the hand of the Lord, since we'll never know what the future has in store for us, whether that's an hour, a week, a year from now. powerful stuff.&lt;/p&gt;
+&lt;p style=&quot;tep sxt-align: left;&quot;&gt;I went home, and by that time, Chiho had returned. some TV, and sleep.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Jun 2017 01:09:47 +0900</pubDate>
+        <link>http://localhost:4000/posts/first-weekend/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/first-weekend/</guid>
+        
+        <category>Korea</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>work</title>
+        <description>&lt;p&gt;intelligent robotics and machine learning&amp;mdash;how did I become so blessed?&lt;/p&gt;
+&lt;p&gt;the core of my research project this summer involves training robots to better perform adaptive, socially-appropriate gestures as they interact with humans. this means taking the camera feed, generating appropriate replies concomitant with realistic, natural gestures.&lt;/p&gt;
+&lt;p&gt;I've read through almost a third of MIT's 6.036 (Machine Learning) notes to catch myself up on the theory. applying it, though, is going to be another hurdle.&lt;/p&gt;
+&lt;p&gt;I also have to learn C++ to make my first robot module. the Internet claims that making the leap from Java to C++ is a hellish nightmare. oh, boy. to top it off, I'll have no way to test my code, as the robot my lab ordered won't be arriving for another few weeks.&lt;/p&gt;
+&lt;p&gt;technicalities aside, I love the environment, and food is&amp;nbsp;&lt;em&gt;insanely&amp;nbsp;&lt;/em&gt;cheap, with a hearty breakfast every day here being the equivalent of about $2.40. I've met some good people on the team, one of whom is reminiscent of the American rascal who never grows up. it's good company. I'm excited for what the next two months hold, and I'm thankful for this opportunity to learn and independently apply what I've read to practical experiments.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Jun 2017 01:09:47 +0900</pubDate>
+        <link>http://localhost:4000/posts/work/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/work/</guid>
+        
+        <category>Korea</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>first impressions</title>
+        <description>&lt;p&gt;through what can only be described as a roller coaster ride of thrill and apprehension, I made it to Korea. it's been 7 years since I've been abroad, and even then, I hardly remember those days in middle school.&lt;/p&gt;
+&lt;p&gt;upon arrival at 인천공항 (Incheon Airport), I was stunned by just how innovative, clean, and well-designed the facilities were. as if that wasn't enough, when I took the KTX (a rapid, country-wide railroad boasting speeds of up to 300km/hr) to 대전 (Daejeon), my residence for the summer, my jaw wanted to drop in its entirety. being used to Boston's T and California's Caltrain systems, this was seriously a breath of fresh air. when transportation's this well-thought-out, one hardly considers public transit a hassle.&amp;nbsp;&lt;em&gt;time flies on these things without one realizing it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Daejeon just isn't Seoul. the amount of Hangeul greeting me upon arrival at 대전역 (Daejeon Station) was a bit overwhelming, I'll admit. my roommate, Chiho, wasn't to arrive for at least another 5 hours. numberless and surrounded by strangers, I surprised myself when I made it to my dorm, Nuri Hall (a dorm meant for foreign students). a nice 아점마 made me some food for 5,000KRW. I got settled, unpacked, and that was pretty much that. the rest of the day involved an impulsive trip to E-Mart for basic living supplies &lt;em&gt;that clearly should have been furnished for us, but were not&lt;/em&gt;, two rather painful mosquito bites after a respite of 7 years, and my inability to understand at least 50% of what was fed to my ears, 2 years of Korean class withstanding.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;hello, Korea.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Jun 2017 01:09:47 +0900</pubDate>
+        <link>http://localhost:4000/posts/arrival/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/arrival/</guid>
+        
+        <category>Korea</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+  </channel>
+</rss>
