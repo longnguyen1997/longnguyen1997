@@ -4,10 +4,10 @@
     <title>thoughts</title>
     <description>join me and my convoluted thoughts. enjoy your stay.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Jul 2017 10:24:09 +0900</pubDate>
-    <lastBuildDate>Mon, 24 Jul 2017 10:24:09 +0900</lastBuildDate>
+    <link>http://longnguyen1997.github.io/</link>
+    <atom:link href="http://longnguyen1997.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 24 Jul 2017 10:35:14 +0900</pubDate>
+    <lastBuildDate>Mon, 24 Jul 2017 10:35:14 +0900</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -27,8 +27,8 @@
 &lt;p style=&quot;tep sxt-align: left;&quot;&gt;I went home, and by that time, Chiho had returned. some TV, and sleep.&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Jun 2017 01:09:47 +0900</pubDate>
-        <link>http://localhost:4000/posts/first-weekend/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/first-weekend/</guid>
+        <link>http://longnguyen1997.github.io/posts/first-weekend/</link>
+        <guid isPermaLink="true">http://longnguyen1997.github.io/posts/first-weekend/</guid>
         
         <category>Korea</category>
         
@@ -46,8 +46,8 @@
 &lt;p&gt;technicalities aside, I love the environment, and food is&amp;nbsp;&lt;em&gt;insanely&amp;nbsp;&lt;/em&gt;cheap, with a hearty breakfast every day here being the equivalent of about $2.40. I've met some good people on the team, one of whom is reminiscent of the American rascal who never grows up. it's good company. I'm excited for what the next two months hold, and I'm thankful for this opportunity to learn and independently apply what I've read to practical experiments.&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Jun 2017 01:09:47 +0900</pubDate>
-        <link>http://localhost:4000/posts/work/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/work/</guid>
+        <link>http://longnguyen1997.github.io/posts/work/</link>
+        <guid isPermaLink="true">http://longnguyen1997.github.io/posts/work/</guid>
         
         <category>Korea</category>
         
@@ -64,8 +64,8 @@
 &lt;p&gt;&lt;em&gt;hello, Korea.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jun 2017 01:09:47 +0900</pubDate>
-        <link>http://localhost:4000/posts/arrival/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/arrival/</guid>
+        <link>http://longnguyen1997.github.io/posts/arrival/</link>
+        <guid isPermaLink="true">http://longnguyen1997.github.io/posts/arrival/</guid>
         
         <category>Korea</category>
         
