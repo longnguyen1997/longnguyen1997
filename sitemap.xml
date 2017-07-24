@@ -3,6 +3,24 @@
 
   
   <url>
+    <loc>http://longnguyen1997.github.io/posts/seongjin/</loc>
+    
+      <lastmod>2017-07-24</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://longnguyen1997.github.io/posts/scam/</loc>
+    
+      <lastmod>2017-07-08</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>http://longnguyen1997.github.io/posts/first-weekend/</loc>
     
       <lastmod>2017-06-11</lastmod>
