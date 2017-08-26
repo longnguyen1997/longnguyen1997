@@ -3,10 +3,10 @@
   <channel>
     <title>thoughts</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Aug 2017 02:34:43 +0900</pubDate>
-    <lastBuildDate>Sun, 27 Aug 2017 02:34:43 +0900</lastBuildDate>
+    <link>https://longnguyen1997.github.io/</link>
+    <atom:link href="https://longnguyen1997.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 27 Aug 2017 02:49:51 +0900</pubDate>
+    <lastBuildDate>Sun, 27 Aug 2017 02:49:51 +0900</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -73,8 +73,8 @@
 &lt;p&gt;until next time, Korea.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Aug 2017 01:09:47 +0900</pubDate>
-        <link>http://localhost:4000/posts/reflections/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/reflections/</guid>
+        <link>https://longnguyen1997.github.io/posts/reflections/</link>
+        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/reflections/</guid>
         
         <category>Korea</category>
         
@@ -124,8 +124,8 @@
 &lt;p&gt;unfortunately, my camera suffered water damage. I’m still unsure about its condition, but it refuses to start up properly. lesson learned: weatherproof does &lt;em&gt;not&lt;/em&gt; mean waterproof.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Aug 2017 01:09:47 +0900</pubDate>
-        <link>http://localhost:4000/posts/second-weekend-in-seoul/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/second-weekend-in-seoul/</guid>
+        <link>https://longnguyen1997.github.io/posts/second-weekend-in-seoul/</link>
+        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/second-weekend-in-seoul/</guid>
         
         <category>Korea</category>
         
@@ -163,8 +163,8 @@
 &lt;p&gt;this was one of my goals for the summer abroad: to immerse myself culturally and absorb as many different worldviews as I can possibly manage. it’s working out.&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Jul 2017 01:09:47 +0900</pubDate>
-        <link>http://localhost:4000/posts/seongjin/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/seongjin/</guid>
+        <link>https://longnguyen1997.github.io/posts/seongjin/</link>
+        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/seongjin/</guid>
         
         <category>Korea</category>
         
@@ -198,8 +198,8 @@
 &lt;p&gt;you learn new things all the time.&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Jul 2017 01:09:47 +0900</pubDate>
-        <link>http://localhost:4000/posts/scam/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/scam/</guid>
+        <link>https://longnguyen1997.github.io/posts/scam/</link>
+        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/scam/</guid>
         
         <category>Korea</category>
         
@@ -227,8 +227,8 @@
 &lt;p style=&quot;tep sxt-align: left;&quot;&gt;I went home, and by that time, Chiho had returned. some TV, and sleep.&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Jun 2017 01:09:47 +0900</pubDate>
-        <link>http://localhost:4000/posts/first-weekend/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/first-weekend/</guid>
+        <link>https://longnguyen1997.github.io/posts/first-weekend/</link>
+        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/first-weekend/</guid>
         
         <category>Korea</category>
         
