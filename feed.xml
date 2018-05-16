@@ -3,10 +3,10 @@
   <channel>
     <title>thoughts</title>
     <description></description>
-    <link>https://longnguyen1997.github.io/</link>
-    <atom:link href="https://longnguyen1997.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 May 2018 12:32:24 -0400</pubDate>
-    <lastBuildDate>Wed, 16 May 2018 12:32:24 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 16 May 2018 12:34:17 -0400</pubDate>
+    <lastBuildDate>Wed, 16 May 2018 12:34:17 -0400</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -23,11 +23,11 @@
 
 &lt;p&gt;ah, Lord, I suppose only you know.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 16 May 2018 12:50:47 -0400</pubDate>
-        <link>https://longnguyen1997.github.io/posts/biology_revisited/</link>
-        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/biology_revisited/</guid>
+        <pubDate>Wed, 16 May 2018 12:15:47 -0400</pubDate>
+        <link>http://localhost:4000/posts/biology_revisited/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/biology_revisited/</guid>
         
-        <category>reflection</category>
+        <category>reflections</category>
         
         
         <category>posts</category>
@@ -57,8 +57,8 @@
 &lt;p&gt;on to the next semester. on to more students. on to more grading.&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 May 2018 12:09:47 -0400</pubDate>
-        <link>https://longnguyen1997.github.io/posts/staffmeeting/</link>
-        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/staffmeeting/</guid>
+        <link>http://localhost:4000/posts/staffmeeting/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/staffmeeting/</guid>
         
         <category>MIT</category>
         
@@ -91,8 +91,8 @@
 &lt;p&gt;be careful in doing what you do. don’t get caught up in the details. see the bigger picture in &lt;em&gt;life&lt;/em&gt;. realize the necessity of &lt;em&gt;love&lt;/em&gt;. love your friends, your neighbors, your families, yourself.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 May 2018 12:09:47 -0400</pubDate>
-        <link>https://longnguyen1997.github.io/posts/junioryear/</link>
-        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/junioryear/</guid>
+        <link>http://localhost:4000/posts/junioryear/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/junioryear/</guid>
         
         <category>MIT</category>
         
@@ -165,8 +165,8 @@
 &lt;p&gt;until next time, Korea.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Aug 2017 12:09:47 -0400</pubDate>
-        <link>https://longnguyen1997.github.io/posts/reflections/</link>
-        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/reflections/</guid>
+        <link>http://localhost:4000/posts/reflections/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/reflections/</guid>
         
         <category>Korea</category>
         
@@ -216,8 +216,8 @@
 &lt;p&gt;unfortunately, my camera suffered water damage. I’m still unsure about its condition, but it refuses to start up properly. lesson learned: weatherproof does &lt;em&gt;not&lt;/em&gt; mean waterproof.&lt;/p&gt;
 </description>
         <pubDate>Mon, 31 Jul 2017 12:09:47 -0400</pubDate>
-        <link>https://longnguyen1997.github.io/posts/second-weekend-in-seoul/</link>
-        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/second-weekend-in-seoul/</guid>
+        <link>http://localhost:4000/posts/second-weekend-in-seoul/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/second-weekend-in-seoul/</guid>
         
         <category>Korea</category>
         
