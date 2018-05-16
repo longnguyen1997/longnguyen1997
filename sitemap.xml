@@ -3,6 +3,24 @@
 
   
   <url>
+    <loc>https://longnguyen1997.github.io/posts/staffmeeting/</loc>
+    
+      <lastmod>2018-05-16</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://longnguyen1997.github.io/posts/junioryear/</loc>
+    
+      <lastmod>2018-05-15</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>https://longnguyen1997.github.io/posts/reflections/</loc>
     
       <lastmod>2017-08-24</lastmod>
