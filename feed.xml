@@ -3,11 +3,44 @@
   <channel>
     <title>thoughts</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 May 2018 12:34:17 -0400</pubDate>
-    <lastBuildDate>Wed, 16 May 2018 12:34:17 -0400</lastBuildDate>
+    <link>https://longnguyen1997.github.io/</link>
+    <atom:link href="https://longnguyen1997.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 17 May 2018 13:28:09 -0400</pubDate>
+    <lastBuildDate>Thu, 17 May 2018 13:28:09 -0400</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>full circle</title>
+        <description>&lt;p&gt;last day of class, and a lot of thinking.&lt;/p&gt;
+
+&lt;p&gt;why is Stata’s design centered around blue and tan? is that a complementary pair?&lt;/p&gt;
+
+&lt;p&gt;why do I deserve a recitation instructor like Mark Stuart Day? &lt;em&gt;my usual example of overdoing it was my dissertation committee; it consisted of the scariest—Barbara Liskov, who went on to win the Turing award, and Butler Lampson, who also won the Turing award, and so on… it’s all good until the dream breaks and you don’t graduate. relatives and friends attending my recitation were sent to our child’s baptism instead.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;why do I care about people? how is it noticeable enough to the point that every one of the students in my recitations pointed it out when I asked for feedback? is that an unconscious thing?&lt;/p&gt;
+
+&lt;p&gt;I don’t think these questions have satisfying answers; they probe pretty deeply.&lt;/p&gt;
+
+&lt;p&gt;also, things really came full circle. I passed on Mark’s decades-long experiential advice to my own students less than an hour later, as if I’d been in his shoes. they, in turn, may pass that on further.&lt;/p&gt;
+
+&lt;p&gt;John approached me after recitation ended. wow, so Latter-day Saints have stricter, more conservative beliefs than us Catholics? wasn’t aware of that. or much else, for that matter. wonder if he’d corrected the woman who wrongly assumed that his work in quantum physics was enough justification for derailing religion.&lt;/p&gt;
+
+&lt;p&gt;seems like everything integrates into a circle. not in the numerical sense—seems like all of life is a circle. the Lord comes and goes, the Lord comes and goes again. people are born, people die. classes diverge, classes converge. seasons come, seasons go. friends arrive, friends depart.&lt;/p&gt;
+
+&lt;p&gt;is that generalization, or is it fact?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 May 2018 12:09:47 -0400</pubDate>
+        <link>https://longnguyen1997.github.io/posts/full-circle/</link>
+        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/full-circle/</guid>
+        
+        <category>MIT</category>
+        
+        <category>reflections</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
     
       <item>
         <title>biology revisited</title>
@@ -24,8 +57,8 @@
 &lt;p&gt;ah, Lord, I suppose only you know.&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 May 2018 12:15:47 -0400</pubDate>
-        <link>http://localhost:4000/posts/biology_revisited/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/biology_revisited/</guid>
+        <link>https://longnguyen1997.github.io/posts/biology_revisited/</link>
+        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/biology_revisited/</guid>
         
         <category>reflections</category>
         
@@ -57,8 +90,8 @@
 &lt;p&gt;on to the next semester. on to more students. on to more grading.&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 May 2018 12:09:47 -0400</pubDate>
-        <link>http://localhost:4000/posts/staffmeeting/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/staffmeeting/</guid>
+        <link>https://longnguyen1997.github.io/posts/staffmeeting/</link>
+        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/staffmeeting/</guid>
         
         <category>MIT</category>
         
@@ -91,8 +124,8 @@
 &lt;p&gt;be careful in doing what you do. don’t get caught up in the details. see the bigger picture in &lt;em&gt;life&lt;/em&gt;. realize the necessity of &lt;em&gt;love&lt;/em&gt;. love your friends, your neighbors, your families, yourself.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 May 2018 12:09:47 -0400</pubDate>
-        <link>http://localhost:4000/posts/junioryear/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/junioryear/</guid>
+        <link>https://longnguyen1997.github.io/posts/junioryear/</link>
+        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/junioryear/</guid>
         
         <category>MIT</category>
         
@@ -165,59 +198,8 @@
 &lt;p&gt;until next time, Korea.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Aug 2017 12:09:47 -0400</pubDate>
-        <link>http://localhost:4000/posts/reflections/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/reflections/</guid>
-        
-        <category>Korea</category>
-        
-        
-        <category>posts</category>
-        
-      </item>
-    
-      <item>
-        <title>이천도예, 신촌물총축제 // arts &amp; water</title>
-        <description>&lt;p&gt;this weekend was marked by a deep appreciation for the dying arts and a return to childhood fun I hadn’t experienced in years.&lt;/p&gt;
-
-&lt;h4&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;pottery in 이천&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt;
-
-&lt;p&gt;sponsored by the MISTI-Korea program, the other MIT interns and I met up in 서울 with our program director, Matt Burt, to visit a nearby city, 이천, renowned for &lt;a href=&quot;http://www.ceramic.or.kr/korean/&quot;&gt;its rich history in ceramics&lt;/a&gt;. the city &lt;em&gt;seemed&lt;/em&gt; very rural, but after living in Korea for almost two months, I don’t think I’d deem it officially “rural”, given the modern standards of living here. the setting reminded me of Vietnam, crop fields and uneven land encroaching humble homes and rustic factories. the homes’ interiors? stark contrast. modern living, equipped with HDTVs, laundry machines, spray toilets—luxuries one wouldn’t attribute to traditional rural homes.&lt;/p&gt;
-
-&lt;p&gt;upon being told by our guide that 900-1300 degrees Celsius is the golden standard for firing, I froze in my tracks. I’d known what absolute zero was, of course, but the thought of clay being fired up to over 2000 degrees Fahrenheit made me question for the first time whether an absolute max exists or not. heck, you’d probably be dead within 10 seconds of stepping foot in a kiln of that heat.&lt;/p&gt;
-
-&lt;p&gt;we were taken to a museum of sorts, complete with the richest, most treasured pieces known to Korea. we’re talking pieces gorgeous and antique enough to be featured at &lt;a href=&quot;http://www.metmuseum.org&quot;&gt;the Met&lt;/a&gt;. each piece was priced from roughly 5,000,000 to 15,000,000KRW. &lt;em&gt;that’s a lot of money&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;our next stop was the home of a potter with 41 years of experience. I was blown away by the steadiness of his hands, the careful strokes he made as he drew two sparrows perched upon a branch with nothing but four colors and his imagination. it was there that I went behind the wheel for the first time—with foot on the pedal, hands on the mound, I conquered. not bad for a first-timer.&lt;/p&gt;
-
-&lt;p&gt;at noon, we went for lunch together, with plentiful servings and esoteric side dishes (반찬). a store next to the restaurant offered hundreds of pottery pieces, but upon closer inspection, I realized that these were nothing more than manufactured souvenirs, and thus, I concluded my search for something to bring home (or so I thought).&lt;/p&gt;
-
-&lt;p&gt;half the day was already over.&lt;/p&gt;
-
-&lt;p&gt;we visited two more potters after lunch, but these weren’t just any random guys: they were two of the 21 &lt;em&gt;Masterhands&lt;/em&gt; in all of Korea. what’s a Masterhand? &lt;a href=&quot;http://boyeok.koreasme.com/en/sub2.html&quot;&gt;someone who’s devoted more than 20 years and contributed significant meaning to their art&lt;/a&gt;. I didn’t catch their names, but they were spectacular.&lt;/p&gt;
-
-&lt;p&gt;the first focuses on technique and style from the 고려 dynasty, an era before the 조선 dynasty. celadon is his specialty, and the intricacy of his designs blew me away. we watched a documentary detailing the process from start to finish, from the making of the clay to the glazing and firing of the created shape. it’s amazing how dedicated he is. even after spending hours and hours on a piece, the slightest observable flaw prompts him to break his work with a hammer. it’s painful to watch such beautiful art crumble, but who am I to gauge a piece the beauty of which only its creator knows?&lt;/p&gt;
-
-&lt;p&gt;the second focuses on technique and style from the 조선 dynasty, &lt;a href=&quot;https://en.wikipedia.org/wiki/Joseon_white_porcelain&quot;&gt;a time when white porcelain was most praised and respected&lt;/a&gt;. his work doesn’t have the geometric intricacy of the first, but the free-hand drawings and colors he produces are impeccable. he works with a palette of colors produced from mixing cobalt, gold, copper, and iron. they’re all various shades of red before firing, which gives a monochromatic prerender of sorts. after firing, the colors are full, vibrant, and beautiful. when asked about how he visualizes the outcome from only red, we were told that &lt;em&gt;experience&lt;/em&gt; was all it is.&lt;/p&gt;
-
-&lt;p&gt;it’s amazing. this art form has been embedded so deep into their hearts and minds such that it’s practically a functional aspect of their lives, no different from breathing or seeing. I’ve developed a huge admiration for all that potters do, and it’s a relief that in this modern age, the arts still live on through these passionate people.&lt;/p&gt;
-
-&lt;h4&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;water gun mayhem at 신촌&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt;
-
-&lt;p&gt;Sunday morning. the dawn breaks, the skies turn cloudy, and my phone wakes me up. I shower and walk to church. it’s a relatively lax morning.&lt;/p&gt;
-
-&lt;p&gt;as I’m walking the edge of 한강, Jasmine texts me and asks if I want to meet up for lunch. at this point, I’m pretty tired, but I go anyway.&lt;/p&gt;
-
-&lt;p&gt;we meet up at 이화대학교 and treat ourselves to shrimp udon and fried ramen.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;then, the fun begins.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;we walked to 신촌, where every year, a watergun festival is held. thousands gather for the music, the mayhem, and the water. we bought &lt;em&gt;huge&lt;/em&gt; water guns for 10,000KRW each and began our conquest on the streets. I won’t elaborate much, but I will say this: remember your youth.&lt;/p&gt;
-
-&lt;p&gt;unfortunately, my camera suffered water damage. I’m still unsure about its condition, but it refuses to start up properly. lesson learned: weatherproof does &lt;em&gt;not&lt;/em&gt; mean waterproof.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 31 Jul 2017 12:09:47 -0400</pubDate>
-        <link>http://localhost:4000/posts/second-weekend-in-seoul/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/second-weekend-in-seoul/</guid>
+        <link>https://longnguyen1997.github.io/posts/reflections/</link>
+        <guid isPermaLink="true">https://longnguyen1997.github.io/posts/reflections/</guid>
         
         <category>Korea</category>
         
