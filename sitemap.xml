@@ -3,6 +3,24 @@
 
   
   <url>
+    <loc>https://longnguyen1997.github.io/posts/marlene/</loc>
+    
+      <lastmod>2018-05-28</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://longnguyen1997.github.io/posts/against-the-current/</loc>
+    
+      <lastmod>2018-05-23</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>https://longnguyen1997.github.io/posts/full-circle/</loc>
     
       <lastmod>2018-05-17</lastmod>
